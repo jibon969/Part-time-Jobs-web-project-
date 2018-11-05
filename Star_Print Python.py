@@ -32,3 +32,8 @@ for i in range(num+1):
         print('*', end=' ')
     print()
 
+
+
+import math 
+print(math.pi)
+	
