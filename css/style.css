@@ -1,0 +1,131 @@
+
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+*{margin:0;padding:0}
+
+body{
+    padding-top: 100px;
+    background-color: #F1F1F1;
+}
+
+/* *************************************
+        page-top 
+****************************************/
+
+
+
+
+.page-top {
+	background-color: #16A05D;
+	border-bottom: 6px solid green;
+	border-top: 6px solid green;
+	margin-bottom: 35px;
+	min-height: 50px;
+	padding: 0;
+	padding: 20px 0;
+	position: relative;
+	text-align: left;
+}
+
+/* ****************************************
+        Now Add Footer Style
+*****************************************/
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #171717;
+	color: white;
+	text-align: center;
+ }
+
+.top-bar {
+  padding: 10px 0;
+  background: #090909;
+  border-bottom: 1px solid #222;
+  line-height: 28px;
+}
+
+.social{
+  text-align: center;
+}
+
+.social-share{
+ display: inline-block;
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+
+ul.social-share li {
+  display: inline-block;
+}
+
+ul.social-share li a {
+  display: inline-block;
+  color: #fff;
+  background: #4267B2;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  border-radius: 2px;
+}
+
+ul.social-share li a:hover {
+  background: #34A853;
+  color: #fff;
+}
+
+#footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+  background: #000;
+}
+
+#footer a {
+  color: #fff;
+}
+
+#footer a:hover {
+  color: #E8CE0E;
+}
+
+#footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+/*======================
+	End top footer
+=======================*/
+.footer {
+	text-align: center;
+	color: #fff;
+	font-weight: 500;
+}
+.footer .top {
+	background: #232323;
+	padding: 48px 0;
+}
+.footer .bottom {
+	background: #1c1c1c;
+	line-height: 50px;
+}
+.footer h4 {
+	color: #fff;
+}
+.footer .social-icons {
+	margin-bottom: 24px;
+}
+
+
